@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/Time2ChangeMyself/meme-generator.git/static/css/main.ca4c8f9d.css",
-    "main.js": "/Time2ChangeMyself/meme-generator.git/static/js/main.85a6fb78.js",
-    "static/media/trollFace.svg": "/Time2ChangeMyself/meme-generator.git/static/media/trollFace.27ce06f76ec3e221bf9e1895ce72fa85.svg",
-    "index.html": "/Time2ChangeMyself/meme-generator.git/index.html",
-    "main.ca4c8f9d.css.map": "/Time2ChangeMyself/meme-generator.git/static/css/main.ca4c8f9d.css.map",
-    "main.85a6fb78.js.map": "/Time2ChangeMyself/meme-generator.git/static/js/main.85a6fb78.js.map"
+    "main.css": "/meme-generator/static/css/main.ca4c8f9d.css",
+    "main.js": "/meme-generator/static/js/main.ebfff7ed.js",
+    "static/media/trollFace.svg": "/meme-generator/static/media/trollFace.27ce06f76ec3e221bf9e1895ce72fa85.svg",
+    "index.html": "/meme-generator/index.html",
+    "main.ca4c8f9d.css.map": "/meme-generator/static/css/main.ca4c8f9d.css.map",
+    "main.ebfff7ed.js.map": "/meme-generator/static/js/main.ebfff7ed.js.map"
   },
   "entrypoints": [
     "static/css/main.ca4c8f9d.css",
-    "static/js/main.85a6fb78.js"
+    "static/js/main.ebfff7ed.js"
   ]
 }
